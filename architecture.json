@@ -1,0 +1,160 @@
+{
+  "book_id": "classical_roman_urban_realism_exile_diaspora",
+  "title": "The Londinium Trench",
+  "tagline": "A Roman exile builds a new life in the mud of Britannia, where every nail driven is a memory buried.",
+  "target_words": 70000,
+  "actual_words": 75124,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Brutal Honesty of Exile",
+    "Building as an Act of Forgetting",
+    "The Diaspora of Roman Identity",
+    "The Intimacy of Practical Survival"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Weight of Rain",
+      "words": 3125
+    },
+    {
+      "ch": 2,
+      "title": "Nails and Coin",
+      "words": 3100
+    },
+    {
+      "ch": 3,
+      "title": "Ghosts in the Foundation",
+      "words": 3050
+    },
+    {
+      "ch": 4,
+      "title": "Hare and Barley",
+      "words": 2950
+    },
+    {
+      "ch": 5,
+      "title": "The Forge's Judgment",
+      "words": 3200
+    },
+    {
+      "ch": 6,
+      "title": "Letters on Wax",
+      "words": 2900
+    },
+    {
+      "ch": 7,
+      "title": "The Optio's Price",
+      "words": 3150
+    },
+    {
+      "ch": 8,
+      "title": "A Roman Roof",
+      "words": 3300
+    },
+    {
+      "ch": 9,
+      "title": "The Butcher's Stall",
+      "words": 3000
+    },
+    {
+      "ch": 10,
+      "title": "Vellocatus's Warning",
+      "words": 3100
+    },
+    {
+      "ch": 11,
+      "title": "Elen's History",
+      "words": 3250
+    },
+    {
+      "ch": 12,
+      "title": "The First Client",
+      "words": 2950
+    },
+    {
+      "ch": 13,
+      "title": "News from Rome",
+      "words": 3400
+    },
+    {
+      "ch": 14,
+      "title": "The Legionary's Ghost",
+      "words": 3100
+    },
+    {
+      "ch": 15,
+      "title": "A Council of Exiles",
+      "words": 3350
+    },
+    {
+      "ch": 16,
+      "title": "The Grit in the Bread",
+      "words": 2900
+    },
+    {
+      "ch": 17,
+      "title": "Carpentry and Compromise",
+      "words": 3200
+    },
+    {
+      "ch": 18,
+      "title": "The River's Colour",
+      "words": 3050
+    },
+    {
+      "ch": 19,
+      "title": "A Name Remembered",
+      "words": 3500
+    },
+    {
+      "ch": 20,
+      "title": "The Wrong People",
+      "words": 3600
+    },
+    {
+      "ch": 21,
+      "title": "Defining the Space",
+      "words": 3150
+    },
+    {
+      "ch": 22,
+      "title": "Not a Home",
+      "words": 3400
+    },
+    {
+      "ch": 23,
+      "title": "Libations",
+      "words": 2950
+    },
+    {
+      "ch": 24,
+      "title": "The Persistent Ash",
+      "words": 3250
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where Lucius must use his Roman administrative skills to solve a local dispute, revealing the clash between imperial logic and tribal custom.",
+      "Draft a letter Lucius writes but will never send, describing the taste of British bread to a friend in Rome.",
+      "Create a monologue for Elen, explaining to her children who the quiet Roman is and why she brings him stew.",
+      "Imagine a chapter from the perspective of Vellocatus the blacksmith, detailing his private thoughts on the 'senator's man' and the fragile economy of trust in Londinium."
+    ],
+    "technical": [
+      "Build a 'Mud & Memory' text generator that blends descriptions of manual labor with flashback prompts, mimicking the novel's style.",
+      "Create an interactive map of Lucius's Londinium, tagging locations with sensory details (smells, sounds, textures) from the text to explore the exile's phenomenological experience."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Tacitus",
+      "George Gissing",
+      "Mavis Gallant",
+      "W.G. Sebald"
+    ]
+  },
+  "cover_prompt": "A weary Roman exile in a worn tunic, shoulders slumped with the weight of memory, drives a forged nail into a heavy timber beam with a final, decisive hammer blow, [Detailed Scene & Context: set within the half-constructed frame of a simple wooden villa emerging from the thick, sucking mud and misty marshes of Britannia, with a fog-shrouded forest of ancient oaks in the background and Roman tools—a saw, a chisel, a leather satchel—resting in the foreground mud], [Artistic Style & Medium: in the atmospheric and textured style of Andrew Wyeth's melancholic realism and the gritty historical detail of Jean-François Millet, rendered in hyper-detailed matte painting with tactile impasto strokes], [Composition & Camera: book cover framing, centered and intimate composition with a low-angle view looking up at the man against the vast, grey sky, dramatic and somber], [Lighting & Color Palette: muted, overcast daylight with a soft, directionless glow, color palette of desaturated earth tones—slate grey, clay brown, moss green, and rust—with a single faint highlight of tarnished bronze on the nail head], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
