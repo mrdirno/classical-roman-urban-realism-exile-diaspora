@@ -2,7 +2,8 @@
 
 ## **CHAPTER 1**
 
-The rain in London had a different weight to it. In Rome, even the winter downpours were theatrical, a grand, drumming prelude that cleared the piazza and sent you running for the portico with a curse and a laugh. Here, it was a fine, persistent ash, a grey smear that didn’t fall so much as settle, seeping into the wool of your cloak, the leather of your shoes, the mortar between the bricks of this damned, low-slung city. Lucius Valerius Strabo stood under the eaves of a chandler’s shop on the south side of the Thames, in the quarter they called *Londinium*, and watched the river the colour of a dulled coin slide past. The smell was of wet dog, river mud, and the distant, ghostly tang of wood-smoke from a hundred hearths. No rosemary, no baking bread from a communal oven, no sun-warmed stone. Just damp.
+Caius’s sandals slapped the same Roman cobbles he’d walked as a boy. The market stank of fish and garum, the sun hammered his neck, and the laughter from a wineshop was a dialect he no longer spoke. Home was a city that remembered a different man.
+
 
 He’d been here seventeen days. Long enough for the coin in his purse to grow thin and anxious, long enough to learn that the wine was vinegar cut with honey and the bread had grit in it, long enough for the ache in his left shoulder—the old legion wound—to become a constant, damp-throated companion. He was fifty-two. An age for a man to be sitting in his own *domus*, watching his grandchildren chase lizards in the courtyard, not standing in a barbarian drizzle waiting for a man who sold nails.
 
