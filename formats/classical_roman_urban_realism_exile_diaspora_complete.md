@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **CHAPTER 1**
 
 The rain in London had a different weight to it. In Rome, even the winter downpours were theatrical, a grand, drumming prelude that cleared the piazza and sent you running for the portico with a curse and a laugh. Here, it was a fine, persistent ash, a grey smear that didn’t fall so much as settle, seeping into the wool of your cloak, the leather of your shoes, the mortar between the bricks of this damned, low-slung city. Lucius Valerius Strabo stood under the eaves of a chandler’s shop on the south side of the Thames, in the quarter they called *Londinium*, and watched the river the colour of a dulled coin slide past. The smell was of wet dog, river mud, and the distant, ghostly tang of wood-smoke from a hundred hearths. No rosemary, no baking bread from a communal oven, no sun-warmed stone. Just damp.
@@ -79,6 +81,8 @@ When he was done, he sat on his pallet, the empty bowl in his hands, listening t
 He blew out the lamp. In the perfect dark, the sounds of *Londinium* were distant: a dog barking, a muffled shout, the endless whisper of the river. Underneath it all, he could almost hear the echo of Rome—the rumble of carts on cobbles, the cry of the water-seller in the Subura, the laughter from Gallus’s courtyard. It wasn’t memory. It was an amputated limb, still itching.
 
 He slept. And for the first time, he did not dream of the sea voyage, or the listing deck, or the cold fear of the unknown. He dreamed of a trench, perfectly straight, filling not with water, but with a slow, relentless tide of dark, British earth.
+
+# Chapter 2
 
 ## **CHAPTER 2**
 
@@ -180,6 +184,8 @@ Elen had not moved. Her expression was one of deep absorption. “They carved th
 She left him then. Lucius sat in the gathering dusk, the taste of desert rock and cold British milk mingling in his mouth. She had understood the story in a way he had not intended. He had meant to describe a marvel of engineering. She had heard a parable of exile.
 
 That night, as he lay on his pallet, he did not pour a libation. He thought of the carved temple, a thing of permanence in a sea of sand. He thought of his own little rectangle of stones, a fragile assertion of order in the sucking mud. And he thought of Elen’s green-grey eyes, watching, listening, understanding too much. The centurion saw a potential problem. She saw a story. He wasn’t sure which was more dangerous.
+
+# Chapter 3
 
 ## **CHAPTER 3**
 
