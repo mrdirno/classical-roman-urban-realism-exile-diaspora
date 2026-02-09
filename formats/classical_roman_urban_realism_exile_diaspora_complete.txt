@@ -1,4 +1,6 @@
- CHAPTER 1
+Chapter 1
+
+CHAPTER 1
 
 The rain in London had a different weight to it. In Rome, even the winter downpours were theatrical, a grand, drumming prelude that cleared the piazza and sent you running for the portico with a curse and a laugh. Here, it was a fine, persistent ash, a grey smear that didn’t fall so much as settle, seeping into the wool of your cloak, the leather of your shoes, the mortar between the bricks of this damned, low-slung city. Lucius Valerius Strabo stood under the eaves of a chandler’s shop on the south side of the Thames, in the quarter they called Londinium, and watched the river the colour of a dulled coin slide past. The smell was of wet dog, river mud, and the distant, ghostly tang of wood-smoke from a hundred hearths. No rosemary, no baking bread from a communal oven, no sun-warmed stone. Just damp.
 
@@ -80,7 +82,9 @@ He blew out the lamp. In the perfect dark, the sounds of Londinium were distant:
 
 He slept. And for the first time, he did not dream of the sea voyage, or the listing deck, or the cold fear of the unknown. He dreamed of a trench, perfectly straight, filling not with water, but with a slow, relentless tide of dark, British earth.
 
- CHAPTER 2
+Chapter 2
+
+CHAPTER 2
 
 The Gaul’s lime was, as promised, strong. It cost him more, but when Lucius mixed it with sand and water, it produced a paste that was viciously white and clung to the trowel with a tenacity that felt like promise. He worked from first light, his breath a steady rhythm of plumes in the air. The drizzle had relented, leaving a sky the colour of a dirty fleece and a cold that bit at the tips of his ears and fingers.
 
@@ -181,7 +185,9 @@ She left him then. Lucius sat in the gathering dusk, the taste of desert rock an
 
 That night, as he lay on his pallet, he did not pour a libation. He thought of the carved temple, a thing of permanence in a sea of sand. He thought of his own little rectangle of stones, a fragile assertion of order in the sucking mud. And he thought of Elen’s green-grey eyes, watching, listening, understanding too much. The centurion saw a potential problem. She saw a story. He wasn’t sure which was more dangerous.
 
- CHAPTER 3
+Chapter 3
+
+CHAPTER 3
 
 The dream was not of Rome, but of the ledger. He was in Gallus’s tablinum, the morning light sharp on the wax tablets. He was tallying the harvest from the Apulian estates—amphorae of oil, sacks of grain, the percentage to be paid in tax. His stylus moved, making the neat, vertical marks. But the numbers wouldn’t hold. The mark for one hundred would blur and become ten. A column of figures for wheat would dissolve into a trickle of sand. He’d look up, and Gallus would be there, but his face was featureless, smooth as an egg, and he would point a silent finger at the ledger. Lucius would look down and see the wax had become the surface of the Thames, dark and flowing, carrying away all the numbers, all the order, into the grey oblivion.
 
@@ -287,11 +293,13 @@ The complication was not the centurion’s visit, nor the physical labour, nor e
 
 He banked the fire and went into his lean-to. The night was profoundly cold, and silent. But in the distance, from the direction of the river, he heard the clear, lonely call of a living crow, a harsh caw that sliced through the frozen air and then was gone, leaving only the echo of its own absence.
 
+
+
 ---
 
- Chapter 4
+Chapter 4
 
- CHAPTER 4
+CHAPTER 4
 
 The air in the Twilight Realm did not move so much as breathe. It was a slow, tidal inhalation, heavy with the scent of damp earth and blooming fungus, of ozone and rotting leaves. In Londinium, the world was a thing of edges—stone against sky, river against bank, the hard line of a roof against the grey smear of cloud. Here, every edge was blurred. Light did not fall; it pooled, a luminescent sap leaking from fronds high above, or rose in ghostly vapours from the moss underfoot. It was a cathedral of decay and growth, immense, silent, and watchful. Alex stepped through the door from the cellar and felt the pressure change in his skull, a soft, insistent pop, as if he had submerged himself in a deep, still lake.
 
@@ -399,11 +407,13 @@ And he understood now the true nature of the complication. It was not that the p
 
 The realm outside was silent in its endless, breathing night. But within him, the current began to pull, a slow, sure, terrifying tide, drawing him not east or west, but inward, toward the cavern where everything he had fled was waiting, reflected and amplified, holding the one fragment that might save two dying worlds.
 
+
+
 ---
 
- Chapter 5
+Chapter 5
 
- CHAPTER 5
+CHAPTER 5
 
 The Heartwood did not begin with a border. It began with a silence. The constant, susurrating chorus of the sentinel trees—the clicks, the sighs, the low hum of sap through petrified veins—it all fell away over the span of twenty paces, as if a door had been shut on a crowded room. The air lost its taste of ozone and damp moss. It became still, and thin, and carried a new scent: the dry, clean aroma of sun on stone, of a place that had forgotten the concept of rain.
 
@@ -426,8 +436,7 @@ He wanted to ask what she saw when she looked into that water. What memories a w
 “We walk past them,” she said, turning her grey eyes on him. “There is a difference. You are a builder. You understand foundation. What is below must be acknowledged, but it must not undermine the structure you are trying to raise. That is the task. Acknowledge. Do not be undermined.”
 
 It was the closest she had come to a profession of faith in him. He nodded, a centurion accepting orders before a siege. The dread was still there, the cold tide pulling inward, but he had a tool now, a purpose: build a path through it. Mend the break. He formally accepted the quest not with words, but by adjusting the pack on his shoulders, by taking the first firm step into the amber glow of the Heartwood. The silence swallowed the sound of his footsteps whole.
-
-They followed a path that was not a path, a gentle declivity between the monumental trees. The golden light seemed to pulse with a slow, sleeping rhythm. After an hour, Alex heard it: the sound of water. Not a rush or a babble, but a low, resonant thrum, a cello note played endlessly beneath the earth. The air grew damp again, but the scent was wrong—it was the smell of wet parchment, of old ink, of a room where letters from the dead are stored.
+  - They followed a path that was not a path, a gentle declivity between the monumental trees. The golden light seemed to pulse with a slow, sleeping rhythm. After an hour, Alex heard it: the sound of water. Not a rush or a babble, but a low, resonant thrum, a cello note played endlessly beneath the earth. The air grew damp again, but the scent was wrong—it was the smell of wet parchment, of old ink, of a room where letters from the dead are stored.
 
 The trees parted, revealing the river.
 
@@ -474,8 +483,7 @@ Elara did not offer a hand. She let him breathe, let the solid, unchanging earth
 He pushed himself up. The amber light seemed harsher. The silence more profound. He felt, irrevocably, that he had passed a boundary within himself. The tangled root-system was still there, but he had seen its shape. He had walked through its darkest thicket and emerged, scarred, but whole.
 
 “Good,” Elara said, reading his face. “Now we move. The river’s call will have been a signal. It draws us. It draws others.”
-
-The landscape beyond the river did not change so much as intensify. The colossal trees grew closer together, their roots forming great, arched buttresses that created tunnels and caverns of smooth, living wood. The amber light was stronger, emanating from the bark itself, casting long, dramatic shadows that seemed to move just at the edge of vision. The air thrummed with a low, sub-auditory power, a heartbeat that was not his own. This was no longer simply a forest. It was a cathedral, ancient and aware, built to principles of geometry and power he could not comprehend.
+  - The landscape beyond the river did not change so much as intensify. The colossal trees grew closer together, their roots forming great, arched buttresses that created tunnels and caverns of smooth, living wood. The amber light was stronger, emanating from the bark itself, casting long, dramatic shadows that seemed to move just at the edge of vision. The air thrummed with a low, sub-auditory power, a heartbeat that was not his own. This was no longer simply a forest. It was a cathedral, ancient and aware, built to principles of geometry and power he could not comprehend.
 
 The rules were older here. Time felt granular, pooling in some places, rushing in others. He saw a cluster of luminous fungi pulse through a full day’s cycle of growth, decay, and rebirth in the span of a dozen heartbeats. A stream of clear water trickled over a rock, and as he watched, the water flowed upwards, defying the stone, before resuming its normal course. The very ground seemed to breathe, a gentle, slow expansion and contraction beneath the needle floor.
 
@@ -593,11 +601,13 @@ He hefted his simple oak staff. He fixed the solid, unassailable memory of his f
 
 And he began to walk across the radiant clearing, toward the Spire, toward the fragment, toward the end of his exile or its final, perfect shape.
 
+
+
 ---
 
- Chapter 6
+Chapter 6
 
- CHAPTER 6
+CHAPTER 6
 
 The refuge was not a place, but a silence. After the high, clean hum of the Spire and the metallic shriek of Elara’s battle, the world here was muffled, packed in wool. They had fled not into the forest, but through it, following a path that was less a trail than a suggestion of less resistance between the ancient, moss-backed stones. The rain here was the London kind, not the Roman; a fine, persistent ash that settled into the fibres of their cloaks and the furrows of the bark, a grey exhalation from a sodden sky. It seeped, it didn’t fall. Alex felt it in his joints, a cold reminder of the river mud and the weight of exile.
 
@@ -658,8 +668,7 @@ Elara assessed him, her gaze flat. “Can you navigate the Maze?”
 Alex felt a jolt. “What do you know of my father?”
 
 “Nothing,” Kael said, his green eyes glinting. “But everyone has a paragraph about their father. It’s the first chapter in the book of regrets.” He looked between them, his cynicism giving way to a spark of raw, intellectual hunger. “The Spire of Lyrion. I’ve only ever studied the fragments of fragments about it. You’re going to the source. That’s the only question worth asking. I’m in.”
-
-The ash-rain had not stopped. It coated the world in a damp, grey film as they moved out from the sunken valley at first light. The Quiet House had given them supplies: hard, tasteless cakes that seemed to dissolve on the tongue, and water drawn from a deep, still well that tasted of stone. No farewells were offered. The door simply closed behind them, sealing the silence back inside.
+  - The ash-rain had not stopped. It coated the world in a damp, grey film as they moved out from the sunken valley at first light. The Quiet House had given them supplies: hard, tasteless cakes that seemed to dissolve on the tongue, and water drawn from a deep, still well that tasted of stone. No farewells were offered. The door simply closed behind them, sealing the silence back inside.
 
 Kael proved to be a fount of abrasive knowledge. He walked with a loping, impatient stride, constantly scanning the ground, the trees, the quality of the light.
 
@@ -791,11 +800,13 @@ The blue light did not flash outwards, but inwards, swallowing him, the clearing
 
 He was not seeing. He was being seen. And in that terrifying, panoramic gaze of the Spire, Alex finally understood the truth of his exile, and the terrible price of the door he had just opened.
 
+
+
 ---
 
- Chapter 7
+Chapter 7
 
- CHAPTER 7
+CHAPTER 7
 
 The world that reassembled itself was not the one he had unmade. The grey smear of Londinium, the clinging dust of the Spire’s foot, the very memory of rain—all of it was scoured away, replaced by a silence so profound it had texture, a dry, granular pressure against the eardrums. Alex lay on his back, the completed key a cold brand against his sternum. Above him, the sky was not a sky at all, but a vast, inverted landscape of stone, its peaks hanging like broken teeth, its valleys cradling pools of stagnant, phosphorescent light that cast no shadow. Gravity, here, was a suggestion, a rumour. Chunks of rock the size of cathedrals drifted in a slow, indifferent ballet, and between them, paths of what looked like compacted dust spiralled and arched, defying sense, all leading toward a single point in the impossible geography.
 
@@ -915,11 +926,13 @@ Alex looked from Elara’s stilling face to the black blade of the Spire, then d
 
 He closed his eyes, and began to rehearse the memory he would soon unlive.
 
+
+
 ---
 
- Chapter 8
+Chapter 8
 
- CHAPTER 8
+CHAPTER 8
 
 The silence in the caverns had a different weight to it. The clamour of the Reavers digging at the barricade was a distant, brutish percussion, a promise of violence that echoed down the stone throat. But here, in the deep places where the Spire’s roots drank from the dark, the quiet was a pressure. It was the hush of a tomb before the last seal is set, a dense, listening stillness that absorbed the scuff of their boots, the ragged draw of their breath. It didn’t fall so much as settle, like the fine grey ash of London’s rain, seeping into the wool of their cloaks, the leather of their bindings, the very cracks in their resolve.
 
@@ -1009,8 +1022,7 @@ The rock where the light touched did not shatter; it dissolved into a shower of 
 A wall of solid, seamless stone slammed down between Alex and Morvath, and between Alex and the Reaver with the axe. It cut off Kael’s cry. It cut off the light. It cut off everything.
 
 The backlash hit Alex like a hammer of pure silence. It rushed into the void left by the unleashed fragment of his pain, filling him with an absolute, ringing nullity. He felt the key grow icy cold, then scorching hot. The world tilted, the darkness swarmed with impossible colours, and then the void took him whole.
-
-Consciousness returned not as a waking, but as a finding of himself in a place that was not a place.
+  - Consciousness returned not as a waking, but as a finding of himself in a place that was not a place.
 
 Alex stood on a plain of polished black stone that stretched to a horizon of featureless white mist. Above, the sky was a deep, starless violet. The air was still, cool, and carried no scent. It was the antithesis of the clamorous, muddy, smelling world. It was a blank page.
 
@@ -1070,19 +1082,20 @@ He did not see the black plain begin to crack, or the white mist at the horizon 
 
 And as it burned, he felt himself begin to forget.
 
+
+
 ---
 
- Chapter 9
+Chapter 9
 
- CHAPTER 9
+CHAPTER 9
 
 The silence in the Spire had a different quality to it. The silence of the black plain had been total, a void that swallowed sound before it could be born. This was a held breath, the quiet of a cathedral between heartbeats, thick with the scent of cold stone and the ozone-tang of spent power. Alex opened his eyes to the close, curving dark of the Spire’s inner chamber. He was on his back. The memory of burning was gone. Not as a scar heals, leaving a pale ridge to trace with a finger, but as a page is removed from a book. The story still held, the narrative of his life continued, but there was a gap now, a smooth, seamless jump in the text. He felt lighter. He felt hollowed. A stranger in his own skin.
 
 He pushed himself up. The stone floor was neither warm nor cold. The guardian was gone, its plinth empty save for a single, lingering mote of silver light that drifted, dust-like, in the still air. In its place, resting on the stone, was not an object, but an understanding. It settled into the newly-made space inside him, a geometric certainty, a sequence of resonant notes. The Harmony. It was the knowledge of how the key—not the physical artifact, but the truth it represented—must be tuned to the Spire’s fractured heart. A calibration of silence against silence, wound against wound. He knew it as he knew how to breathe. The knowledge was cold and perfect, like a key of ice.
 
 The chamber door, a seamless arch of obsidian, sighed open. Beyond it, the Spire’s central staircase spiraled upwards into gloom. No choice remained but ascent.
-
-Kael was a statue of vigilance carved from shadow and fatigue. He knelt beside Elara’s still form in a side-chamber they had barricaded with fallen masonry. The air here was different—the damp, mineral smell of deep earth, the iron scent of blood. A single glow-stone, cracked and fading, cast a jaundiced light. Elara lay on a bed of cloaks, her face pale as parchment, but her chest rose and fell in a shallow, steady rhythm. A crude bandage, dark with a poultice of crushed moss and something else, was bound tight across her shoulder and chest.
+  - Kael was a statue of vigilance carved from shadow and fatigue. He knelt beside Elara’s still form in a side-chamber they had barricaded with fallen masonry. The air here was different—the damp, mineral smell of deep earth, the iron scent of blood. A single glow-stone, cracked and fading, cast a jaundiced light. Elara lay on a bed of cloaks, her face pale as parchment, but her chest rose and fell in a shallow, steady rhythm. A crude bandage, dark with a poultice of crushed moss and something else, was bound tight across her shoulder and chest.
 
 Kael’s head turned as Alex entered. The relief in his eyes was a brief, banked fire, quickly shrouded. “You’re back. Or you never left. Time in this place is a knot.”
 
@@ -1129,8 +1142,7 @@ Alex nodded, though they could not see. The truth of it was a clean, surgical cu
 “A space,” Alex said. “A quiet room. And in that room, the Harmony. It fits there. It is what the space was made for.”
 
 They climbed on.
-
-The staircase ended in a final, sweeping curve, opening at last into the summit chamber. It was not a room, but a crown.
+  - The staircase ended in a final, sweeping curve, opening at last into the summit chamber. It was not a room, but a crown.
 
 The walls were gone. Or rather, they were a lattice of impossibly slender stone ribs, soaring up to a apex lost in mist and shadow. Between the ribs, the sky was not sky, but the Veil itself. Here, the wound was not an abstraction. It was a visceral, pulsing tear. A ragged gash of non-light, a bleeding absence that hung in the centre of the open space, throbbing like a sick heart. It did not move, yet it seemed to spin, to devour the faint light from the crystal veins below. Around its edges, the substance of the world frayed into threads of grey static, a slow un-weaving. The air tasted of metal and void. The sound was a sub-audible hum, a pressure against the teeth, the feeling of standing too close to a colossal bell after it has been struck.
 
@@ -1184,11 +1196,13 @@ Alex looked from the hollow man who was his kin to the pulsing wound, to the sto
 
 He stepped forward, toward the dais, as behind him the world continued to quietly, patiently, cease to be.
 
+
+
 ---
 
- Chapter 10
+Chapter 10
 
- CHAPTER 10
+CHAPTER 10
 
 The silence in the Spire had a different weight to it. The chaos of battle was a clamour you could understand, a language of steel and shouted fury that mapped onto the bones. This was a quieter unmaking. The stone did not scream as it ceased to be. It simply sighed into a grey, static memory of itself, a hole in the world that hummed with a thirst that had no bottom. Alex moved toward the dais through that humming quiet, his boots scuffing on grit that was the only evidence of where the walkway had been. The air tasted of spent lightning and the cold, flat tang of a place where no wind had ever blown. No rosemary, no wood-smoke, just the scent of dissolution, patient and absolute.
 
@@ -1374,11 +1388,13 @@ The woman in the shawl took a step into the chamber, her mouth working. “Who�
 
 Alex did not answer. He turned his gaze upward, past the newly-stable stone ribs of the Spire, as if he could see through the mountain to the cold, waiting stars beyond. The journey had not ended with arrival. It had only just truly begun. The next road was calling. It would be darker, and longer, and it would lead away from any hearth he might ever think to call home.
 
+
+
 ---
 
- Chapter 11
+Chapter 11
 
- CHAPTER 11
+CHAPTER 11
 
 The quiet in the Spire had a different weight to it. The silence after battle was a hollow, ringing thing, a vessel waiting to be filled with the next cry of steel or pain. This was a held breath, a fragile suspension. It was the pause in the footfall of the approaching crowd, the space between the woman’s question and any answer that could be given. It settled over the chamber like the fine, persistent ash of a London rain, seeping into the cracks of the broken floor, the weave of their cloaks, the marrow of their bones. Alex stood within it, the centre of the calm, and felt the first tremor of its undoing.
 
@@ -1559,11 +1575,13 @@ Alex turned his face to the deep dark. From within it, he felt it—a faint, col
 
 “Where the silence is,” he said. And without another word, he stepped off the faint path, and let the shadows of his own world swallow him whole.
 
+
+
 ---
 
- Chapter 12
+Chapter 12
 
- FINAL CHAPTER
+FINAL CHAPTER
 
 The rain in London had a different music to it now. It was no longer a grey smear, a settling ash of indifference. It was a chorus of individual drops, each a tiny drum against pavement, leaf, and canal water, a complex harmony he had learned to hear in the silence between notes. Alex Carter stood under the awning of a narrowboat café on the Regent’s Canal, in the quarter they called Camden, and watched the rain weave its liquid tapestry over the city. He did not curse it. He did not laugh. He simply listened, his hands wrapped around a chipped mug of tea, steam mingling with the damp air. He was here, in this damned, beautiful, low-slung city, and he was, for the first time, present in it. Not an exile awaiting return, but a diasporan, learning the grammar of a new home.
 
@@ -1633,11 +1651,13 @@ He did not smile. A profound, quiet peace settled over him, as fine and persiste
 
 He stood up, pulling his coat tighter against the chill. The ordinary, beautiful, low-slung city awaited him, its thousand lights beginning to prick the twilight like fixed stars. He turned his back on the deeping dark of the park, and walked towards them, carrying his own quiet with him.
 
+
+
 ---
 
- Chapter 13
+Chapter 13
 
- CHAPTER 13
+CHAPTER 13
 
 The peace, Alex discovered, did not last. It was not meant to. It was a stone dropped into the deep, still pool of his new existence; the ripples spread, and in their gentle, inevitable expansion, they eventually touched the shore. The quiet was not an end state, but a medium. And in any medium, things travel.
 
@@ -1757,11 +1777,13 @@ He did not walk towards the dark of the mews. Not yet. He turned, pulling his co
 
 END CHAPTER 13
 
+
+
 ---
 
- Chapter 14
+Chapter 14
 
- CHAPTER 14
+CHAPTER 14
 
 The walk back to the flat was a retreat made under a silent, psychic ceasefire. Alex kept his pace measured, a civilian amble, but his senses were strung as tight as tripwires. He did not look back at the mouth of the mews. He could feel the absence of light there, a cold spot between his shoulder blades, a pressure like the first drop in barometric pressure before a storm. The scuttling sound had not repeated, but its memory was etched into the air, a negative imprint. It was the sound of the Harmony’s deeping dark given legs and claws and sentience. A scout.
 
@@ -1873,11 +1895,13 @@ But the silence, now, was different. It was a listening silence. And he knew, wi
 
 END CHAPTER 14
 
+
+
 ---
 
- Chapter 15
+Chapter 15
 
- CHAPTER 15
+CHAPTER 15
 
 The silence did not break. It deepened. It became a room in which Alex Carter lived, a new, austere chamber built inside his old life. The hum of the fridge was its clock. The distant, damp-muffled traffic on the Commercial Road was its weather. He moved through his flat with the deliberate, economical motions of a man conserving energy for a siege. He ate because he needed fuel. He slept in shallow, brittle layers, surfacing often to the sound of his own heartbeat, his hand already reaching for the spectacles on the bedside crate.
 
@@ -2129,11 +2153,13 @@ He was now a marked entry in a colder, deeper ledger. The conversation had just 
 
 END CHAPTER 15
 
+
+
 ---
 
- Chapter 16
+Chapter 16
 
- CHAPTER 16
+CHAPTER 16
 
 The bus was a tin can of damp wool and muttered complaints. Leo sat near the back, his forehead pressed against the cool, grimy glass, watching the sodium-lit streets unspool. The physical world—the hiss of brakes, the woman two rows ahead nursing a paper-wrapped chip supper, the conductor’s bored monotone calling stops—felt like a painted scrim. Behind it, thrumming just out of phase, was the other London. The one he could now feel in the marrow of his teeth.
 
@@ -2275,11 +2301,13 @@ He was not the only new entry in the ledger. He was not the only exile trying to
 
 The conversation, it seemed, had just found another voice.
 
+
+
 ---
 
- Chapter 17
+Chapter 17
 
- CHAPTER 17
+CHAPTER 17
 
 The silence after the signal was a different quality of quiet. It was not the dead, listening hush of the Catalogue’s domain, nor the dense, woolly silence of the warded room. It was an active silence, a held breath. Leo remained in the chair, the dregs of his tea gone cold in the cup, his senses stretched thin as wire across the night. He waited for another pulse, that soft, geometric sigh in the dark. Nothing came. Only the ordinary, muffled hum of the city, the drip of a tap in the kitchen below, the distant, forlorn whistle of a train somewhere south.
 
@@ -2290,8 +2318,7 @@ He rose, his joints protesting the long stillness. The ward on the table seemed 
 He could not go tonight. The distance was too great, his knowledge of the southern suburbs nonexistent. And a man rushing out into the small hours was a man asking for trouble, from bobbies or from things less easily defined. He had learned the value of patience, of the slow, deliberate step. The signal had been weak. The sender was cautious, or depleted. They would not vanish. Exiles did not vanish; they retreated, they hid, they waited. He knew the rhythm.
 
 Sleep, when it came, was shallow. The dodecahedron turned in his dreams, its facets catching not light, but fragments of other impressions: the taste of ozone, the scent of hot brass, the feeling of smooth, cool crystal under his palm. It was a language without words, a sensory signature.
-
-The next morning was a Tuesday, grey and brisk. Leo performed his rituals with a new focus. The tea, the toast, the careful tuning of his senses against the city’s drone—it was all preparation. He needed a map, and a pretext. After his shift at the library, he walked not to Charing Cross Road, but to a small, cluttered bookshop near the British Museum that specialised in antiquarian maps and surveys. The air inside was thick with the smell of foxed paper and dust.
+  - The next morning was a Tuesday, grey and brisk. Leo performed his rituals with a new focus. The tea, the toast, the careful tuning of his senses against the city’s drone—it was all preparation. He needed a map, and a pretext. After his shift at the library, he walked not to Charing Cross Road, but to a small, cluttered bookshop near the British Museum that specialised in antiquarian maps and surveys. The air inside was thick with the smell of foxed paper and dust.
 
 “Surbiton,” he said to the elderly proprietor, a man with spectacles perched on the end of a veined nose. “A detailed ordnance survey, if you have it.”
 
@@ -2310,8 +2337,7 @@ Leo’s breath caught. He closed his eyes, focusing all his attenuated skill. He
 The response was immediate: a wash of relief so profound it felt like a sob. Then, the connection broke, severed with a deliberate, final snap.
 
 He had been heard.
-
-The following Saturday, under a sky the colour of dirty chalk, Leo Aquila became a day-tripper. He wore his second-best suit, carried a folded umbrella and the map in a leather satchel. He looked like a clerk on a weekend constitutional, or a minor academic pursuing a footnote. The train from Waterloo was a slow, stopping beast, filled with shoppers and families. He watched the city shed its stone skin, giving way to the soot-stained gardens and then the greener, wider spaces of the suburbs. The Thames appeared and disappeared, a leaden ribbon.
+  - The following Saturday, under a sky the colour of dirty chalk, Leo Aquila became a day-tripper. He wore his second-best suit, carried a folded umbrella and the map in a leather satchel. He looked like a clerk on a weekend constitutional, or a minor academic pursuing a footnote. The train from Waterloo was a slow, stopping beast, filled with shoppers and families. He watched the city shed its stone skin, giving way to the soot-stained gardens and then the greener, wider spaces of the suburbs. The Thames appeared and disappeared, a leaden ribbon.
 
 Surbiton station was a modest, red-brick affair. The air here was different—lighter, but with a thin, chemical edge from the nearby gasworks. He walked, following the map’s logic, moving into the grid of streets. The houses were solid, semi-detached, with bay windows and tidy front gardens. It was a landscape of quiet accomplishment, of privet hedges and the occasional motorcar parked by the kerb. He felt utterly alien. His London was of shadows and decay, of hidden currents and ancient fear. This was a London that believed in progress, in pensions, in the solidity of brick and mortar. The dissonance was jarring.
 
@@ -2443,11 +2469,13 @@ He was not just hiding now. He was plotting a course. The exile had become a nav
 
 The train plunged into a tunnel, the window reflecting his own face back at him—a pale, set mask in the sudden glass. Behind his eyes, the cold, dry mark on his soul throbbed once, a silent, insistent echo. The ledger had just been updated.
 
+
+
 ---
 
- Chapter 18
+Chapter 18
 
- CHAPTER 18
+CHAPTER 18
 
 The rain in London had a different quality to it now. It was no longer the fine, persistent ash of a foreign city, but the sharp, needling spray of a trap being sprung. Leo stood on the platform at Waterloo, the crowd flowing around him like a river around a stone. The map in his satchel was a live thing, a warmth against his ribs. The fairy tale of the Silo was a lodestone in his mind, pulling him north. He had a course. He had a purpose. The quiet desperation of the exile had been forged, in Finch’s pristine kitchen, into a quiet resolve. It felt, for the first time in seventeen years, like the beginnings of a victory.
 
@@ -2595,11 +2623,13 @@ He stood there, his forehead against the door, feeling the vast, silent weight o
 
 Behind him, the beautiful, cursed light of the Silo pulsed on, a heartbeat in a stone tomb. The conversation was over. Now, there was only the choice of what kind of silence he would become.
 
+
+
 ---
 
- Chapter 19
+Chapter 19
 
- CHAPTER 19
+CHAPTER 19
 
 The light in the Silo had a different weight to it. In the world above, even the gloom of a data-stack corridor had been a passive thing, an absence you moved through. Here, the light was an active, liquid presence. It poured from the crystalline niches, it pooled on the smooth stone floor, it clung to the skin and the robes of the quiet figures moving through the Antechamber. It was not illumination. It was atmosphere. It was the medium in which they all swam, a beautiful, viscous trap. Leo stood with his palm flat against the great sealed door, the wood cool and unyielding as a glacier. The hum of the place was in his teeth. It was the sound of a machine idling, perfectly tuned, waiting for the last recalcitrant part—him—to be machined down to a smooth, fitting tolerance.
 
@@ -2737,11 +2767,13 @@ He nodded. He went first, his hands finding the cold, rough iron of the ladder. 
 
 The last of the Silo’s light vanished. The hum was gone, replaced by a ringing, absolute quiet. The air was cold and dead. There was only the feel of the ladder under his hands, the void below his feet, and the hook in his soul, throbbing now not with the ache of betrayal, but with the older, more fundamental ache of the dark. He had chosen his silence. It was not the curated silence of the archive. It was the raw, hungry silence of the tomb. And he was climbing down into its throat.
 
+
+
 ---
 
- Chapter 20
+Chapter 20
 
- CHAPTER 20
+CHAPTER 20
 
 The dark beneath the Silo was not an absence. It was a substance. It had a texture, a granular thickness that settled in the lungs and against the skin, a mineral cold that leached the warmth from the marrow. Leo descended, the rust of the ladder rinds biting into his palms, each rung a small, metallic protest in the swallowing quiet. The air was dead. It did not move. It held the taste of old stone and deeper things—the flinty tang of primordial water, the faint, acrid ghost of long-spent fuels. This was not a place for machines. This was a place for sediment, for slow compression, for things forgotten by design.
 
@@ -2907,11 +2939,13 @@ The resonant whine was in the chamber now, a pressure against the eardrums. The 
 
 Leo turned and ran, Kaela at his side, back into the dark of the outer cavern, toward the bunker, toward the lever. The chorus of the diaspora rose behind them, a final, desperate archive of human noise, as the custodians’ silence advanced to meet it.
 
+
+
 ---
 
- Chapter 21
+Chapter 21
 
- CHAPTER 21
+CHAPTER 21
 
 The dark of the outer cavern was not an absence, but a substance. It had a texture, a taste—the taste of cold stone and ancient, trapped air, of metal that had forgotten the sun. It swallowed the defiant chorus from the chamber behind them, muffling it to a distant, rhythmic surf, a sound that seemed to come from the other side of a thick glass wall. Leo ran, the tarnished key a searing brand of ice in his clenched fist. Kaela was a shadow at his shoulder, her breath coming in sharp, controlled gasps, the heavy wrench a clumsy weight in her hand. They did not speak. The hook in Leo’s soul was speech enough. It was no longer a tug, but a direct, physical draw, a lodestone in his gut pulling him down through the rock. The low hum was in his teeth, in the marrow of his bones, a frequency that bypassed the ear entirely.
 
@@ -3111,11 +3145,13 @@ He reached out and took Kaela’s hand. Her fingers were cold, but they gripped 
 
 The hum was everywhere now. It was the sound of the world forgetting how to be broken.
 
+
+
 ---
 
- Chapter 22
+Chapter 22
 
- CHAPTER 22
+CHAPTER 22
 
 The light from the ovoid chamber was a physical pressure. It pushed against Leo’s eyes, not with heat, but with a terrible, clean insistence. It was the opposite of the London rain he’d never seen but now felt he understood—a weight that scrubbed rather than seeped, that sought to bleach the grit from the world. The hum of the archive was the sound of that bleaching, a low, planetary exhale. It wasn’t in the air. It was of the air. It vibrated in the fillings of his teeth, in the old scar tissue along his ribs.
 
@@ -3287,11 +3323,13 @@ He looked directly at Leo, his blue eye piercing.
 
 “You found it. Now. Let’s talk about how to make it scream.”
 
+
+
 ---
 
- Chapter 23
+Chapter 23
 
- CHAPTER 23
+CHAPTER 23
 
 The hum of the core was a pressure, a physical weight in the air that made the teeth ache and the mind want to curl in on itself. It was the sound of a world holding its breath, a single, sustained note just below hearing that vibrated in the marrow. Against it, the scrape of the broken custodians’ boots, the wet rasp of the scarred man’s breathing, were like cracks in porcelain. Flaws in the song.
 
@@ -3481,11 +3519,13 @@ He took a step forward, toward the glowing heart of everything he had fought aga
 
 And raised his hand.
 
+
+
 ---
 
- Chapter 24
+Chapter 24
 
- CHAPTER 24
+CHAPTER 24
 
 The silence in the core was a different weight to it. In the world above, even the deepest quiet was a temporary thing, a held breath before the next argument, the next alarm, the next gust of grit against the dome. Here, it was absolute. A perfect, spherical vacuum where sound went to die, leaving only the hum of blood in his own ears, the ghost-rhythm of his own heart. Leo stood on the curved floor, the hollowed man before the fullness of peace, and felt the old, familiar ache—not in his shoulder, but in the marrow of his exile. It was the ache for a portico in a sun-warmed piazza, for a taste of wine that wasn’t cut with anything, for a silence that wasn’t an invitation to be unmade.
 
@@ -3514,8 +3554,7 @@ He took a step forward. The gentle gravity of the field took him, a buoyant, wei
 He did not look back. He raised his hand. His left hand, the one that still sometimes trembled with the phantom pain of an old legion wound that had never existed in this world, but which he remembered with perfect, aching clarity.
 
 His fingertips brushed the surface.
-
-It was not a vision. It was a relocation.
+  - It was not a vision. It was a relocation.
 
 The spherical room vanished. The ache vanished. The memory of grit and damp and vinegar wine vanished.
 
@@ -3592,8 +3631,7 @@ The golden blur at the edge of the piazza grew closer. The father’s voice was 
 Leo did not answer. He fixed his mind on a single, gritty sensation: the feel of plastique in his hands, its oily, inert density. The weight of the charges in Kaela’s pack. The plan. The ugly, violent, necessary plan.
 
 He stepped into the golden blur.
-
-The spherical room snapped back into existence. The silence was a physical slap. He was still suspended in the gravity field, his hand pressed flat against the crystal.
+  - The spherical room snapped back into existence. The silence was a physical slap. He was still suspended in the gravity field, his hand pressed flat against the crystal.
 
 But the crystal was no longer just glowing. It was reacting.
 
@@ -3696,8 +3734,7 @@ They sprinted across the open space, toward the archway that led to the service 
 They dove through the archway, into the narrower, darker passage.
 
 1.
-
-The explosion was not sound.
+  - The explosion was not sound.
 
 It was a cessation.
 
